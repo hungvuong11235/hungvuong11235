@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @hungvuong11235
-- 👀 I’m interested in crypto tech and finance 
-- 🌱 I’m currently learning code and running something on internet
-- 💞️ I’m looking to collaborate on X.com
-- 📫 How to reach me :  hungvuong11235@gmail.com
-
-<!---
-hungvuong11235/hungvuong11235 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+2024-06-08 14:29:15] » File written successfully:/home/minezz/.tracks/junction-accounts/keys/eigen3.wallet.json
+[2024-06-08 14:29:15] » Account created: eigen3
+[2024-06-08 14:29:15] » Mnemonic: hunt flush horn nominee correct zone blanket time auto warm toss champion orchard tired sausage tail inherit enact together surge industry member approve taxi
+[2024-06-08 14:29:15] » Address: air1xndf93vj6u8w02tmcjsl2e50tyr2qu6vq7nryq
+[2024-06-08 14:29:15] » Please save this mnemonic key for account recovery
+[2024-06-08 14:29:15] » Please save this address for future reference
